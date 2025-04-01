@@ -22,10 +22,5 @@ The app uses **local storage** to persist task data, ensuring that the user's da
 - **Local Storage**: For storing task data locally on the browser.
   
 ## Check out the live application at: 
-[Link](https://task-manager-app-lac-eta.vercel.app/)
+[Link](https://task-manager-two-jade.vercel.app/)
 
-
-### For Clone This Repo
-```Javascript
-git clone https://github.com/devendra0704/Task-Manager-App
-```
